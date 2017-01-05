@@ -1,3 +1,3 @@
 <?php
-echo "hello git world XXXXXX";
+echo "hello git world sexy";
 ?>
